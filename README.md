@@ -27,4 +27,4 @@ Setelah menyelesaikan masa PKL, saya sendiri membangun ulang website yang berfun
 - **Manajemen Data**: Mengelola data terkait dokumen dengan mudah.
 
 ## Kontributor
-- Template Surat dan dokumen oleh: [MrLazy06](https://github.com/MrLazy06)
+- Template Surat Memo dibuat oleh: [MrLazy06](https://github.com/MrLazy06)
